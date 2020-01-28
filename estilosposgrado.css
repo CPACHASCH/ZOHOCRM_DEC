@@ -1,0 +1,110 @@
+tr , td { 
+
+    border:"1";
+    /*padding:px;*/
+    border-spacing:0px;    
+    border-width:0px;
+    margin-left: 2em;
+    /*line-height:3em;*/
+    width:80%;
+    padding-top:18px;
+    font-size:12px;
+    font-family:Arial;
+    
+    }
+
+    input[class="entrada"]{
+        width:100%;
+        line-height: 120%;
+        padding: 6px;
+        font-size:12px;
+        font-family:Arial;
+    }
+
+    input[type=checkbox] {
+            
+        width: 18px; /*Desired width*/
+        height: 18px; /*Desired height*/
+        
+    }
+
+        
+    input[type=radio]{
+        /*-webkit-appearance: none;
+        -moz-appearance: none;
+        appearance: none;*/
+      
+        border-radius: 50%;
+        width: 20px;
+        height: 18px;
+      
+        border: 2px solid #999;
+        transition: 0.2s all linear;
+        margin-right: 5px;
+      
+        position: relative;
+        top: 4px;
+      }
+      
+ 
+    select, option {
+        background: transparent;
+        font-size: 12px;
+        padding: 7px;
+        width:100%;
+        font-size:12px;
+        font-family:Arial;
+     }
+
+     input[list] {
+        /*background: transparent;*/
+        font-size: 12px;
+        padding: 7px;
+        width:100%;
+        font-size:12px;
+        font-family:Arial;
+     }
+
+
+    table
+    {         
+        /*margin: 0 auto;*/
+        background-color:#ffffff;
+        /*background-color:silver;*/
+        width:70%;
+        line-height: 100%;
+       /*  color:black;
+       border:10px;*/
+        align-items:center;
+        padding:30px;
+     
+        
+    }
+
+    div b1 {
+        margin: 0 auto;
+        color:#ff6600;
+        font-size:25px;
+        font-family:Arial, Helvetica, sans-serif;
+        padding:0px;
+        background-color:#ffffff;
+        Line-height:30px;  
+    }
+
+    div b2 {
+        margin: 0 auto;
+        font-size:12px;
+        color:#3e6680;
+        font-family:Arial, Helvetica, sans-serif;
+        width: 80%;
+        Line-height:18px;
+        padding:0px;
+        background-color:#ffffff;
+    }
+
+    div b3 {
+        width: 80%;
+        Line-height:18px;
+        padding:0px;
+
+    }
